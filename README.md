@@ -9,7 +9,9 @@ There are a total of 10000 points, and the training, validation and test splits 
 dataset using a Neural Network. Hence, if your implementation is correct, the accuracy on the train,
 validation and test sets should be close to 100%
 
-![XOR Dataset](https://user-images.githubusercontent.com/37892854/70887175-38505180-2003-11ea-9e88-83c82bd52c60.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/37892854/70887175-38505180-2003-11ea-9e88-83c82bd52c60.png">
+</p>
 
 ### MNIST Dataset
 We use the MNIST data set which contains a collection of handwritten numerical digits (0-9) as
