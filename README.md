@@ -26,3 +26,5 @@ activation functions) can be used to achieve a fairly high accuracy (even over 9
 accuracy might require some careful tuning of the hyperparameters like the number of layers, number
 of hidden nodes and the learning rate.
 
+![MNIST Dataset](https://miro.medium.com/max/795/1*VAjYygFUinnygIx9eVCrQQ.png)
+
